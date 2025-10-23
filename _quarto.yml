@@ -78,7 +78,7 @@ format:
     toc-expand: 2
 comments:
   giscus:
-    repo: Arcadia-Science/notebook-pub-template
+    repo: Arcadia-Science/2025_genopheno_local_linear_mapping
     input-position: top
 reference-location: margin
 bibliography: ref.bib
