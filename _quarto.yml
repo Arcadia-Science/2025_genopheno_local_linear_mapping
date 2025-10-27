@@ -3,8 +3,8 @@ project:
   render:
   - '*.qmd'
   - '*.ipynb'
-  - 'examples/*.ipynb'
-  - 'pages/*.qmd'
+  - examples/*.ipynb
+  - pages/*.qmd
   resources:
   - assets/*
   - authors.yml
@@ -12,7 +12,7 @@ project:
 execute:
   freeze: auto
 website:
-  favicon: "assets/logo_white.png"
+  favicon: assets/logo_white.png
   twitter-card: true
   open-graph: true
   navbar:
@@ -22,7 +22,7 @@ website:
     left:
     - text: '{{< iconify qlementine-icons:version-control-16 >}}'
       menu:
-      - text: v01 (latest)
+      - text: v1.0 (latest)
         href: index.ipynb
     - text: '{{< iconify nrk:back >}} Back to Pub'
       href: index.ipynb
@@ -32,7 +32,7 @@ website:
     - text: Reproduce this pub
       href: pages/SETUP.qmd
     - text: Cite this pub
-      href: "#"
+      href: '#'
     - text: Contribute
       href: pages/CONTRIBUTING.qmd
     tools:
