@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/index.html</loc>
-    <lastmod>2025-10-27T18:03:16.820Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/pages/SETUP.html</loc>
-    <lastmod>2025-10-27T18:03:16.940Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/pages/CONTRIBUTING.html</loc>
-    <lastmod>2025-10-27T18:03:16.940Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/pages/FAQ.html</loc>
-    <lastmod>2025-10-27T18:03:16.940Z</lastmod>
+    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/index_v1.0.html</loc>
+    <lastmod>2025-10-30T17:50:27.251Z</lastmod>
   </url>
   <url>
     <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/examples/demo.html</loc>
-    <lastmod>2025-10-27T18:03:16.803Z</lastmod>
+    <lastmod>2025-10-30T17:50:27.217Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/pages/FAQ.html</loc>
+    <lastmod>2025-10-30T17:50:27.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/pages/CONTRIBUTING.html</loc>
+    <lastmod>2025-10-30T17:50:27.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/pages/SETUP.html</loc>
+    <lastmod>2025-10-30T17:50:27.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Arcadia-Science.github.io/2025_genopheno_local_linear_mapping/index.html</loc>
+    <lastmod>2025-10-30T17:50:27.234Z</lastmod>
   </url>
 </urlset>
