@@ -3,15 +3,17 @@ name = "notebook-pub-contents"
 description = "Python project for notebook publication."
 version = "0.0.0"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 license = { file = "LICENSE" }
 
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[tool.setuptools.packages.find]
-where = ["src"]
+# This pub has no installable Python package (all content lives in index.ipynb);
+# tell setuptools there are no modules so `pip install -e .` succeeds as a no-op.
+[tool.setuptools]
+py-modules = []
 
 [tool.ruff]
 # The directories to consider when resolving first- vs. third-party imports
